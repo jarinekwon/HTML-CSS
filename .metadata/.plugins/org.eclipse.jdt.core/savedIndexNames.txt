@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\kgamg\OneDrive\πŸ≈¡ »≠∏È\Java&Springboot\java_work\.metadata\.plugins\org.eclipse.jdt.core
+2989997807.index
+1865797976.index
+2475029203.index

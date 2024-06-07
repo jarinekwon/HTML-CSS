@@ -1,0 +1,15 @@
+
+public class TaxiFareP {
+	public static void main(String[] args) {
+		int fare;
+		int income;
+		
+		for (fare = 1000; fare <= 10; fare++) {
+			int sum = fare * 1000;
+			income += sum;
+			System.out.println("요금을 입력하세요: " + sum);
+		}
+		System.out.println("총 수입: " + income);
+		
+	}
+}

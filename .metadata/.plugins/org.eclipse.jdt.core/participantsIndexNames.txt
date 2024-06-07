@@ -1,0 +1,17 @@
+INDEX VERSION 1.134
+C:\Users\kgamg\OneDrive\πŸ≈¡ »≠∏È\Java&Springboot\java_work\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2619712478.index
+\jsp_240524\src\main\java
+C:\Users\kgamg\OneDrive\πŸ≈¡ »≠∏È\Java&Springboot\java_work\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1752884741.index
+\jsp_240529\src\main\java
+C:\Users\kgamg\OneDrive\πŸ≈¡ »≠∏È\Java&Springboot\java_work\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2894269600.index
+\jsp_240524\src\main\java
+C:\Users\kgamg\OneDrive\πŸ≈¡ »≠∏È\Java&Springboot\java_work\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\528340627.index
+\jsp_240529\src\main\java
+C:\Users\kgamg\OneDrive\πŸ≈¡ »≠∏È\Java&Springboot\java_work\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2142920566.index
+\jsp_240529\src\main\java
+C:\Users\kgamg\OneDrive\πŸ≈¡ »≠∏È\Java&Springboot\java_work\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3682876470.index
+\jsp_240524\src\main\java
+C:\Users\kgamg\OneDrive\πŸ≈¡ »≠∏È\Java&Springboot\java_work\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4173724564.index
+\jsp_240529\src\main\java
+C:\Users\kgamg\OneDrive\πŸ≈¡ »≠∏È\Java&Springboot\java_work\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2411907842.index
+\jsp_240529\src\main\java
